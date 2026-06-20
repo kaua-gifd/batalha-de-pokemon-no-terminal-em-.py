@@ -121,3 +121,4 @@ while hpe >=1:
     mk = random.choice(moves)
 
     print(f"o {pok} usou um {mk} e tirou {n2} da vida do seu {pk}")
+    time.sleep(3.07)
